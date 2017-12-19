@@ -1,0 +1,22 @@
+{
+  "name": "minesweeper.js",
+  "version": "1.0.0",
+  "description": "My Very First module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teebrain/Mine.git"
+  },
+  "keywords": [
+    "Minesweeper"
+  ],
+  "author": "Tee Brain <teebrain1@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teebrain/Mine/issues"
+  },
+  "homepage": "https://github.com/Teebrain/Mine#readme"
+}
